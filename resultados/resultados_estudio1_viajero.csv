@@ -1,0 +1,4 @@
+Escenario;Tiempo medio (s);Mejor valor (min);Media (min);Desviacion estandar (min);Mejor individuo
+elitismo;0.0648;509;515.3;8.18;6 1 2 7 3 9 4 8 11 13 12 5 10
+torneo;0.0725;509;518.8;10.08;6 1 2 7 3 9 4 8 11 13 12 5 10
+ruleta;0.0605;544;582.5;17.86;13 12 5 2 1 6 10 4 9 3 7 8 11
